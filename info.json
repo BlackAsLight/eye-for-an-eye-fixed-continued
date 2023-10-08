@@ -1,0 +1,13 @@
+{
+	"name": "eye-for-an-eye-fixed-continued",
+	"version": "0.1.4",
+	"title": "Eye for an Eye fixed",
+	"author": "BlackAsLight",
+	"contact": "44320105+BlackAsLight@users.noreply.github.com",
+	"homepage": "",
+	"description": "An attempt to mitigate the 'all or nothing' affect of biters breaching your walls. Biters which damage a structure will take damage.",
+	"dependencies": [
+		"base >= 1.1"
+	],
+	"factorio_version": "1.1"
+}
